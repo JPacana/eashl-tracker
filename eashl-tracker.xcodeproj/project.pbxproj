@@ -15,7 +15,6 @@
 		7EAEF7621C5D3D6B00434D6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EAEF7601C5D3D6B00434D6E /* LaunchScreen.storyboard */; };
 		7EAEF76D1C5D3D6B00434D6E /* eashl_trackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EAEF76C1C5D3D6B00434D6E /* eashl_trackerTests.swift */; };
 		7EAEF7781C5D3D6B00434D6E /* eashl_trackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EAEF7771C5D3D6B00434D6E /* eashl_trackerUITests.swift */; };
-		7EAEF7861C5D3FA500434D6E /* testing123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EAEF7851C5D3FA500434D6E /* testing123.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		7EAEF7731C5D3D6B00434D6E /* eashl-trackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "eashl-trackerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EAEF7771C5D3D6B00434D6E /* eashl_trackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eashl_trackerUITests.swift; sourceTree = "<group>"; };
 		7EAEF7791C5D3D6B00434D6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7EAEF7851C5D3FA500434D6E /* testing123.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testing123.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				7EAEF75E1C5D3D6B00434D6E /* Assets.xcassets */,
 				7EAEF7601C5D3D6B00434D6E /* LaunchScreen.storyboard */,
 				7EAEF7631C5D3D6B00434D6E /* Info.plist */,
-				7EAEF7851C5D3FA500434D6E /* testing123.swift */,
 			);
 			path = "eashl-tracker";
 			sourceTree = "<group>";
@@ -265,7 +262,6 @@
 				7EAEF75A1C5D3D6B00434D6E /* DetailViewController.swift in Sources */,
 				7EAEF7581C5D3D6B00434D6E /* MasterViewController.swift in Sources */,
 				7EAEF7561C5D3D6B00434D6E /* AppDelegate.swift in Sources */,
-				7EAEF7861C5D3FA500434D6E /* testing123.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
